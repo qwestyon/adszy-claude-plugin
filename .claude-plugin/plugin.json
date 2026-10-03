@@ -1,0 +1,30 @@
+{
+  "name": "adszy",
+  "displayName": "Adszy",
+  "version": "1.0.0",
+  "description": "Google Ads analysis in Claude: account health, wasted spend, search terms, budget pacing, Shopping and Performance Max products, and client-ready performance reports for the Google Ads accounts you link to Adszy. Read-only.",
+  "author": {
+    "name": "Adszy Limited",
+    "email": "support@adszy.ai",
+    "url": "https://adszy.ai"
+  },
+  "homepage": "https://adszy.ai/mcp",
+  "repository": "https://github.com/qwestyon/adszy-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "google-ads",
+    "ppc",
+    "paid-search",
+    "search-terms",
+    "negative-keywords",
+    "performance-max",
+    "shopping",
+    "budget-pacing",
+    "ad-reporting",
+    "marketing-analytics"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://adszy.ai/mcp",
+  "privacyPolicyUrl": "https://adszy.ai/legal",
+  "termsOfServiceUrl": "https://adszy.ai/legal"
+}
